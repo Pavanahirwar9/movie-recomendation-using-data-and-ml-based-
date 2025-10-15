@@ -1,0 +1,13 @@
+/.venv
+__pycache__/
+*.pyc
+*.pkl
+*.npz
+*.joblib
+/.vscode
+/.idea
+env/
+venv/
+dist/
+build/
+*.egg-info/
